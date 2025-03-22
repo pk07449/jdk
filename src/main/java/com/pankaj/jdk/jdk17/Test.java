@@ -2,7 +2,15 @@ package com.pankaj.jdk.jdk17;
 
 public class Test {
 
-     sealed static class Parent permits Child1, Child2 {
+    static class SuperParent {
+
+    }
+
+    interface SuperInterface {
+
+    }
+//    1. Sealed Classes
+     sealed static class Parent extends SuperParent implements SuperInterface permits Child1, Child2 {
         int m1() {
             System.out.println("from a sealed parent class ");
             return 0;

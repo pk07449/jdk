@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa3b1185-11e2-4150-8523-9b84c2ac7606" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk11/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk14/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk15/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk16/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk17/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk9/collection/CollectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/pattern/gof/structural/readMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/interview-question" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk9/collection/CollectionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk11/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk11/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk17/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/jdk/jdk17/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
