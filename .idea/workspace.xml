@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa3b1185-11e2-4150-8523-9b84c2ac7606" name="Changes" comment="" />
+    <list default="true" id="aa3b1185-11e2-4150-8523-9b84c2ac7606" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/document/AI.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/document/AWS_Developer.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/document/Dev-ops.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/document/HLD.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/document/Security.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pankaj/document/Spring Micro services.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
